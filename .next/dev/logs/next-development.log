@@ -1,0 +1,12 @@
+[00:00:00.579] Server  LOG      ✓ Ready in 381ms
+[00:00:03.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.898] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:03.898] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/admin","route":"/admin"}
+[00:00:03.898] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763612142529}
+[00:00:03.898] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'length')
+[00:00:04.184] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.340] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:04.340] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:04.340] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763612143581}
+[00:00:06.197] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763612145367}
+[00:00:06.197] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'length')
